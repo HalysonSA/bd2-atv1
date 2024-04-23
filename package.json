@@ -1,0 +1,18 @@
+{
+  "name": "bd2-atv1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@prisma/client": "^5.12.1",
+    "express": "^4.19.2",
+    "odbc": "^2.4.8",
+    "prisma": "^5.12.1"
+  }
+}
